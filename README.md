@@ -5,20 +5,20 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 ## Table of Contents
 - [Categories](#categories)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 - [Expert Strategies](#expert-strategies)
 - [ChatGPT Tips](#chatgpt-tips)
-
+- [License](#prompting-techniques)
+- [Resources](#resources)
+  
 ## Categories
-- **Conversation**
-- **Question Answering**
-- **Coding Tasks**
-- **AI Art Prompts**
-- **Information Extraction**
-- **Content Generation**
-- **Text Summarization**
-- **Text Classification**
+### **Conversation**
+### **Question Answering**
+### **Coding Tasks**
+### **AI Art Prompts**
+### **Information Extraction**
+### **Content Generation**
+### **Text Summarization**
+### **Text Classification**
 
 ## How to Use
 1. **Browse Categories**
@@ -30,8 +30,29 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 - **Specify the Format**
 - **Emphasize Specificity and Clarity**
 - **Use Concrete Details**
-
 ## ChatGPT Tips
 - **Write the Next Paragraph**
 - **Learning and Education**
 - **Enhance Medium Stories**
+
+## Prompting Techniques
+**Zero-shot Prompting**
+**Few-shot Prompting**
+**Chain-of-Thought Prompting**
+**Self-Consistency**
+**Generate Knowledge Prompting**
+**Prompt Chaining**
+**Tree of Thoughts**
+**Retrieval Augmented Generation**
+**Automatic Reasoning and Tool-use**
+**Automatic Prompt Engineer**
+**Active-Prompt**
+**Directional Stimulus Prompting**
+**Program-Aided Language Models**
+**ReAct**
+**Reflexion**
+**Multimodal CoT**
+**Graph Prompting**
+
+## Resources
+- **ChatGPT Prompts for Learning**: [relatively new discipline for developing and optimizing prompts](https://www.promptingguide.ai/)
