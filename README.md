@@ -7,9 +7,9 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 - [How to Use](#how-to-use)
 - [Expert Strategies](#expert-strategies)
 - [ChatGPT Tips](#chatgpt-tips)
-- [License](#prompting-techniques)
+- [Prompting Techniques](#prompting-techniques)
 - [Resources](#resources)
-  
+
 ## Categories
 ### **Conversation**
 ### **Question Answering**
@@ -30,10 +30,6 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 - **Specify the Format**
 - **Emphasize Specificity and Clarity**
 - **Use Concrete Details**
-## ChatGPT Tips
-- **Write the Next Paragraph**
-- **Learning and Education**
-- **Enhance Medium Stories**
 
 ## Prompting Techniques
 **Zero-shot Prompting**
@@ -54,5 +50,25 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 **Multimodal CoT**
 **Graph Prompting**
 
+## ChatGPT Tips
+- **Write the Next Paragraph**
+- **Learning and Education**
+- **Enhance Medium Stories**
+
+## Additional Tips and Tricks
+- **Be Specific and Direct With Your Questions**
+- **Use Clear and Concise Language**
+- **Take Advantage of the Chat Format and Engage in Back-and-Forth**
+- **Setting the Scene With System Messages**
+- **Guiding the Conversation With Context**
+- **Limiting Max Tokens**
+- **Experiment With the Temperature of Your Chat**
+- **Using User Messages to Refine Responses**
+- **Proofread and Iterate**
+- **Experiment and Learn**
+
+
 ## Resources
 - **ChatGPT Prompts for Learning**: [relatively new discipline for developing and optimizing prompts](https://www.promptingguide.ai/)
+
+
