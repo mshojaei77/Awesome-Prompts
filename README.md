@@ -137,118 +137,172 @@ Explain the concept of [Philosophical Concept] and its implications.
 -------------
 ## **Coding Tasks**
 
-### 1. **Code Generation for a Specific Function**
-```
-Generate a [programming language] function named [function name] that performs [describe the function's purpose]. The function should accept [list of parameters] and return [describe the return type or value].
+### 1. Code Writing with Feedback
+```plaintext
+Given the following requirements for a function in [programming language]:
+- Input: [input data type]
+- Output: [output data type]
+- Functionality: [describe the functionality]
+
+Write the function code and provide a brief explanation of how it works, focusing on the key logic and any non-obvious code constructs used.
 ```
 
-### 2. **API Endpoint Integration**
-```
-Write a [programming language] function to interact with the [API name] endpoint [API endpoint URL]. The function should accept [list of parameters] and return [describe the return type or value]. Include error handling for [list of potential errors].
+### 2. Debugging with Hypothesis
+```plaintext
+Consider the following code snippet in [programming language]:
+
+// Code snippet
+
+Propose a hypothesis about the potential issues in this code. Then, provide a step-by-step guide to debug the code, testing your hypothesis, and explaining the corrective actions taken.
 ```
 
-### 3. **Database Query Template**
-```
-Create a [SQL/NoSQL] query to [describe the query's purpose, e.g., retrieve, update, delete] records from the [table/collection name] where [condition].
+### 3. Code Enhancement with Context
+```plaintext
+Given the context of a [specific project or application], the following code snippet in [programming language] needs enhancement:
+
+// Code snippet
+
+Suggest improvements that would make the code more efficient, readable, or user-friendly. Explain the rationale behind each suggestion and how it benefits the overall project.
 ```
 
-### 4. **Shell Script for Automation**
-```
-Write a shell script that automates the task of [describe the task] using the following tools: [list of tools]. The script should [describe the script's actions].
+### 4. Security Enhancement with Scenario
+```plaintext
+Imagine a scenario where a web application is vulnerable to [specific security threat]. The following code snippet in [programming language] is part of the application:
+
+// Code snippet
+
+Identify how this code could be exploited and suggest security enhancements to mitigate the threat. Explain the changes and why they are effective.
 ```
 
-### 5. **Debugging a Code Snippet**
-```
-Debug the following [programming language] code snippet:
-```[code snippet]```
-Identify and fix the errors in the code.
+### 5. Database Query Optimization with Performance Metrics
+```plaintext
+Consider the following SQL query intended for [database type]:
+
+[SQL query]
+
+The query is used in a [specific application context] and currently takes [current execution time] to execute. Analyze the query plan and suggest optimizations that could reduce the execution time to [target execution time] or less. Explain the reasoning behind each optimization.
 ```
 
-### 6. **Refactoring Code for Improved Readability**
-```
-Refactor the following [programming language] code to improve readability and maintainability:
-```[code snippet]```
-Explain the changes made and their benefits.
+### 6. Shell Scripting with User Interaction
+```plaintext
+Design a shell script in [programming language] that automates the following user task:
+- [describe the task]
+
+The script should handle user inputs gracefully and provide informative feedback. Include error handling for potential issues and a help command that explains how to use the script.
 ```
 
-### 7. **Writing Unit Tests**
-```
-Write unit tests for the function [function name] in [programming language]. The tests should cover the following scenarios: [list of scenarios].
+### 7. Building Apps with Architectural Considerations
+```plaintext
+Outline a step-by-step guide to building a [describe the app] using [programming language/framework/library]. The guide should include:
+- Setup instructions
+- Development process with architectural considerations
+- Testing strategies
+- Deployment steps
+
+Focus on the architectural choices that ensure scalability, maintainability, and security.
 ```
 
-### 8. **Security Enhancement**
-```
-Implement security measures to protect the [application/API] against [describe the security threat]. Describe the security measures implemented and their effectiveness.
+### 8. Feature Addition with User Impact
+```plaintext
+Given the existing codebase in [programming language], suggest a new feature that would benefit the end-users of [specific application]. The feature should [describe the feature].
+
+Explain how the feature would be implemented, including any necessary code changes, and discuss the potential impact on the user experience and application performance.
 ```
 
-### 9. **Writing Documentation**
-```
-Write documentation for the [programming language] function [function name]. Include a description of the function, its parameters, return type, and any exceptions it might raise.
+### 9. Commenting and Documentation with Best Practices
+```plaintext
+Review the following code snippet in [programming language] and provide detailed comments and documentation. The documentation should follow best practices for clarity, conciseness, and completeness.
+
+// Code snippet
 ```
 
-### 10. **Performance Optimization**
-```
-Optimize the following [programming language] code for performance:
-```[code snippet]```
-Explain the optimizations made and how they improve the code's performance.
+### 10. Fixing Code Issues with Root Cause Analysis
+```plaintext
+Identify and resolve all possible issues in the provided code snippet in [programming language]. Conduct a root cause analysis for each identified issue, explaining why the original code led to the problem and how the fix addresses the root cause.
+
+// Code snippet
 ```
 
-### 11. **Code Enhancement**
-```
-Suggest improvements and additions to the [programming language] code for [describe the code's purpose]. Include any new features or optimizations that could enhance the code.
+### 11. Code Refactoring with Design Patterns
+```plaintext
+Refactor the following code snippet in [programming language] using the [specific design pattern] to improve its structure and maintainability. Explain how the chosen pattern addresses the identified issues and enhances the code's readability and scalability.
+
+// Code snippet
 ```
 
-### 12. **Security Enhancement for Web Applications**
-```
-Implement security measures to protect the web application against [describe the security threat]. Describe the security measures implemented and their effectiveness.
+### 12. Unit Testing with Coverage
+```plaintext
+Write unit tests for the following code snippet in [programming language], ensuring full coverage of the functionality. The tests should cover [list of specific scenarios].
+
+Provide a brief explanation of each test case and how it validates the code's behavior.
+
+// Code snippet
 ```
 
-### 13. **Refactoring for Improved Code Structure**
-```
-Refactor the following [programming language] code to improve its structure and maintainability:
-```[code snippet]```
-Explain the changes made to improve the code's structure and why they enhance maintainability.
+### 13. Exception Handling with Edge Cases
+```plaintext
+Implement exception handling for the provided code snippet in [programming language]. Ensure that the handling is robust and covers [list of specific edge cases].
+
+Explain the rationale behind the chosen exceptions and how they are caught and handled appropriately.
+
+// Code snippet
 ```
 
-### 14. **Documentation for Code Logic**
-```
-Explain the logic behind the [programming language] function [function name]. Provide a detailed explanation of how the function works, including any key algorithms or data structures used.
+### 14. Performance Optimization with Profiling
+```plaintext
+Analyze the performance of the following code snippet in [programming language] using profiling tools. Identify bottlenecks and suggest optimizations that could significantly improve execution time.
+
+Provide a detailed explanation of the identified bottlenecks and how the proposed optimizations address them.
+
+// Code snippet
 ```
 
-### 15. **Performance Optimization for Startup Time**
-```
-Optimize the startup time of the [application/service] by identifying and addressing performance bottlenecks in the following code:
-```[code snippet]```
-Detail the identified bottlenecks and the optimizations made to improve startup time.
+### 15. Scalability Enhancement with Load Testing
+```plaintext
+Enhance the scalability of the given code snippet in [programming language] by incorporating features that allow it to handle increased data volume or user load effectively. Discuss the strategies used to achieve scalability and how they are implemented in the code.
+
+// Code snippet
 ```
 
-### 16. **Debugging a Specific Issue**
-```
-Debug the issue where [describe the issue] occurs in the [programming language] code. Provide a step-by-step guide to identify and fix the problem.
+### 16. Accessibility Improvement with User Feedback
+```plaintext
+Improve the accessibility of the provided code snippet in [programming language]. Consider user feedback that highlights accessibility issues and suggest improvements that address these concerns.
+
+Explain how each improvement enhances the accessibility of the application for users with disabilities.
+
+// Code snippet
 ```
 
-### 17. **Refactoring for Improved Readability**
-```
-Refactor the following [programming language] code snippet to improve its readability:
-```[code snippet]```
-Explain the logic changes made to simplify the code and improve its efficiency.
+### 17. Zero-shot Prompting with Coding Challenge
+```plaintext
+Given a coding challenge, write a [programming language] solution that [describe the challenge]. The solution should demonstrate the use of [specific programming concepts or libraries].
+
+Provide a detailed explanation of the solution, focusing on the choice of algorithms, data structures, and design patterns used.
 ```
 
-### 18. **Writing Shell Commands for a Specific Task**
-```
-Write a shell script to automate the task of [describe the task] using the following tools: [list of tools]. Explain how the script uses each tool to complete the task.
+### 18. Few-shot Prompting with Debugging Scenario
+```plaintext
+Debug the following code snippet in [programming language]. The code is part of a larger application and has been reported to [describe the issue].
+
+Given two previous debugging sessions where similar issues were encountered, suggest a step-by-step debugging approach that includes the use of [specific debugging techniques or tools].
+
+// Code snippet
 ```
 
-### 19. **Security Enhancement for API Endpoints**
-```
-Implement security measures for the API endpoint [API endpoint URL] in the following code:
-```[code snippet]```
-Describe the security measures implemented and why they are effective.
+### 19. Chain-of-Thought Prompting with Code Analysis
+```plaintext
+Consider the following code snippet in [programming language]. It is part of a larger system that [describe the system's functionality].
+
+Analyze the code's functionality, identifying any areas that could be improved for efficiency, readability, or maintainability. Then, suggest a chain of thought that leads to the development of a more refined solution.
+
+// Code snippet
 ```
 
-### 20. **Code Enhancement for Improved User Experience**
-```
-Improve the user experience in the [application/service] by addressing the issue of [describe the user experience issue]. Describe the changes made to address the issue and how they enhance the user experience.
+### 20. Automatic Prompt Engineering with Code Generation
+```plaintext
+Develop a prompt for generating code snippets in [programming language] that [describe the desired functionality]. The prompt should be designed to guide the model to produce high-quality, efficient, and well-documented code.
+
+Explain the reasoning behind the chosen prompt structure and how it aligns with best practices for prompt engineering.
 ```
 
 -------------
