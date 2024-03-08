@@ -1,4 +1,5 @@
-# Ready-to-Use ChatGPT Prompts
+# Awesome Ready-to-Use Prompts
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A meticulously curated collection of prompts designed to enhance productivity, creativity, and learning across various disciplines. Leveraging the power of ChatGPT (or any other LLMs), these prompts are crafted to be actionable, specific, and contextually rich, ensuring users get the most out of each interaction.
 
