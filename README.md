@@ -5,6 +5,9 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 
 ## Table of Contents
 - [Categories](#categories)
+  - [Writing](#writing)
+  - [Question Answering](#question-answering)
+  - [Coding Tasks](#coding-tasks)
 - [How to Use](#how-to-use)
 - [Expert Strategies](#expert-strategies)
 - [ChatGPT Tips](#chatgpt-tips)
