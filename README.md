@@ -4,6 +4,7 @@
 A meticulously curated collection of prompts designed to enhance productivity, creativity, and learning across various disciplines. Leveraging the power of ChatGPT (or any other LLMs), these prompts are crafted to be actionable, specific, and contextually rich, ensuring users get the most out of each interaction.
 
 ## Table of Contents
+- [How to Use](#how-to-use)
 - [Categories](#categories)
   - [Writing](#writing)
   - [Question Answering](#question-answering)
@@ -16,11 +17,16 @@ A meticulously curated collection of prompts designed to enhance productivity, c
   - [Marketing](#marketing)
   - [Customer Services](#customer-services)
   - [AI Agents](#ai-agents)
-- [How to Use](#how-to-use)
-- [Expert Strategies](#expert-strategies)
-- [ChatGPT Tips](#chatgpt-tips)
+- [Additional Tips and Tricks](#additional-tips-and-Tricks)
 - [Prompting Techniques](#prompting-techniques)
+- [ChatGPT Tips](#chatgpt-tips)
 - [Resources](#resources)
+
+## How to Use
+1. **Browse Categories**
+2. **Select a Prompt**
+3. **Provide Context**
+4. **Experiment and Refine**
 
 # Categories
 ## **Writing**
@@ -462,16 +468,6 @@ Transform the historical event of [describe the historical event] into an art pi
 #### 
 #### 
 -------------
-## How to Use
-1. **Browse Categories**
-2. **Select a Prompt**
-3. **Provide Context**
-4. **Experiment and Refine**
-
-## Expert Strategies
-- **Specify the Format**
-- **Emphasize Specificity and Clarity**
-- **Use Concrete Details**
 
 ## Prompting Techniques
 **Zero-shot Prompting**
@@ -493,21 +489,6 @@ Transform the historical event of [describe the historical event] into an art pi
 **Graph Prompting**
 
 ## ChatGPT Tips
-- **Write the Next Paragraph**
-- **Learning and Education**
-- **Enhance Medium Stories**
-
-## Additional Tips and Tricks
-- **Be Specific and Direct With Your Questions**
-- **Use Clear and Concise Language**
-- **Take Advantage of the Chat Format and Engage in Back-and-Forth**
-- **Setting the Scene With System Messages**
-- **Guiding the Conversation With Context**
-- **Limiting Max Tokens**
-- **Experiment With the Temperature of Your Chat**
-- **Using User Messages to Refine Responses**
-- **Proofread and Iterate**
-- **Experiment and Learn**
 
 
 ## Resources
