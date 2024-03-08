@@ -11,37 +11,319 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 - [Prompting Techniques](#prompting-techniques)
 - [Resources](#resources)
 
-## Categories
-### **Writing**
-#### Blog Post
-> Write a detailed blog post of approximately `[1500]` words focusing on `[SUBJECT]`. The post should aim to inform and engage readers by presenting a balanced view of the topic. Include relevant statistics, quotes from experts, and practical tips or advice for readers. Use an engaging and informative tone throughout the post.
+# Categories
+## **Writing**
 
->  Craft an engaging introduction for a blog post on `[SUBJECT]`. Your introduction should be approximately `150` words, designed to captivate the reader's interest and provide a preview of the post's content.
-#### Detailed Analysis
-> Begin with a concise overview of `[SUBJECT]`. Proceed to delve into a detailed analysis, exploring its key aspects, potential implications, and its relationship with broader trends or concepts. Conclude with your insights or recommendations.
-#### New Idea
-> Assume the role of a thought leader in `[SUBJECT]`. Generate a groundbreaking idea or innovation that could significantly transform the field. Elaborate on how this idea could revolutionize current practices or solutions.
-#### Step-by-Step Guide
-> Outline the primary objective of your guide on `[SUBJECT]`. Then, structure the guide into sections, each focusing on a specific step or aspect. Ensure each section is clear, actionable, and contributes to the overall goal of the guide.
-#### Debate Outline
-> Initiate with a provocative statement about `[SUBJECT]`. Then, outline three main arguments supporting this statement. For each argument, provide evidence and counterarguments. Conclude with a summary of the debate's implications.
-#### Historical Overview
-. Retrieve key historical events and figures associated with [SUBJECT] from a credible database. Compose a concise overview of these events, emphasizing their significance and impact on the subject.
-#### Problem-Solving Article
-> Identify a prevalent problem in [SUBJECT] that requires a solution. Utilize logical reasoning and existing tools or data to propose a solution. Explain the reasoning behind your solution and its potential benefits.
-#### Interactive Story
-> Launch an interactive story about [SUBJECT]. Start with a setting and introduce the main characters. Then, pose a question or decision for the reader to answer. Based on their choice, continue the story, adapting the narrative accordingly.
-#### Policy Analysis
-> Given the policy on [SUBJECT], write an analysis of its potential impacts. Consider both the positive and negative outcomes, and how it aligns with broader societal goals. Provide a balanced view and suggest areas for improvement.
+### 1. **Narrative: Historical Event Retelling**
+```
+Write a narrative describing the event of [Event Name] that took place on [Date]. Include the key players involved, the setting, the main events, and the outcome of the event.
+```
 
-### **Question Answering**
-### **Coding Tasks**
+### 2. **Descriptive: Nature Scene Description**
+```
+Describe the scene in [Location] during [Season]. Include details about the weather, the plants, animals, and any notable features.
+```
+
+### 3. **Argumentative: Social Issue Perspective**
+```
+Write an argumentative essay supporting the viewpoint that [Social Issue] should be addressed by [Proposed Solution]. Include reasons for your stance, evidence supporting your arguments, and a conclusion summarizing your position.
+```
+
+### 4. **Narrative: Personal Experience**
+```
+Write a narrative about your experience at [Event Name]. Describe the setting, the people you met, the activities you participated in, and how you felt about the experience.
+```
+
+### 5. **Descriptive: Artwork Analysis**
+```
+Write a descriptive essay about [Artwork Title] by [Artist Name]. Analyze the artwork's style, the use of color, the subject matter, and the artist's message or perspective.
+```
+
+### 6. **Argumentative: Technological Impact**
+```
+Write an argumentative essay discussing the impact of [Technology] on [Aspect of Society]. Present arguments for and against the technology's influence, including evidence and examples.
+```
+
+### 7. **Narrative: Character Development**
+```
+Write a narrative about a character named [Character Name]. Describe their background, motivations, and a significant event that changed their life. Include dialogue and actions that reveal the character's personality and development.
+```
+
+### 8. **Descriptive: Historical Building**
+```
+Describe [Historical Building Name] located in [City Name]. Include details about its architecture, historical significance, and how it reflects the culture and era it was built in.
+```
+
+### 9. **Argumentative: Literary Criticism**
+```
+Write an argumentative essay on the theme of [Literary Theme] in [Book Title] by [Author Name]. Present arguments for and against the theme's presence in the book, citing specific examples from the text.
+```
+
+### 10. **Narrative: Personal Growth**
+```
+Write a narrative about your journey of personal growth over the past [Number of Years]. Include milestones, challenges faced, and how these experiences have shaped your character and perspective.
+```
+
+-------------
+## **Question Answering**
+
+### 1. **Zero-Shot: Historical Event Analysis**
+```
+Given the historical event [Event], explain the significance of this event in [Time Period] and how it impacted [Geographical Area].
+```
+
+### 2. **Few-Shot: Scientific Research Summarization**
+```
+Based on the following research articles:
+- [Article 1 Title]: [Brief Summary of Article 1]
+- [Article 2 Title]: [Brief Summary of Article 2]
+
+Summarize the key findings and contributions of these articles to the field of [Scientific Field].
+```
+
+### 3. **Chain-of-Thought (CoT): Legal Analysis**
+```
+Considering the case [Case Name], which involved [Brief Description of Case], follow the chain of thought to:
+1. Identify the key legal principles involved.
+2. Analyze how these principles apply to the case.
+3. Conclude on the likely outcome of the case.
+```
+
+### 4. **Zero-Shot: Literary Analysis**
+```
+What is the central theme of [Book Title] by [Author Name]?
+```
+
+### 5. **Few-Shot: Mathematical Problem Solving**
+```
+Solve the following mathematical problem:
+Given: [Initial Conditions]
+Find: [Final Conditions]
+
+Hint: Consider the formula [Mathematical Formula].
+```
+
+### 6. **Chain-of-Thought (CoT): Technical Troubleshooting**
+```
+If a user is experiencing [Issue Description] with [Product Name], follow the chain of thought to:
+1. Identify the potential causes of the issue.
+2. Suggest steps to diagnose the problem.
+3. Propose solutions to resolve the issue.
+```
+
+### 7. **Zero-Shot: Environmental Impact Analysis**
+```
+How does [Human Activity] impact [Environmental Aspect]?
+```
+
+### 8. **Few-Shot: Historical Period Comparison**
+```
+Compare and contrast the economic policies of [Period 1] and [Period 2] in [Country Name].
+```
+
+### 9. **Chain-of-Thought (CoT): Business Strategy Formulation**
+```
+Given the current market conditions and [Company Name]'s strengths and weaknesses, follow the chain of thought to:
+1. Identify the main challenges facing the company.
+2. Analyze the opportunities available in the market.
+3. Propose a strategic plan to address these challenges and capitalize on opportunities.
+```
+
+### 10. **Zero-Shot: Philosophical Concept Explanation**
+```
+Explain the concept of [Philosophical Concept] and its implications.
+```
+
+-------------
+## **Coding Tasks**
+
+### 1. **Code Generation for a Specific Function**
+```
+Generate a [programming language] function named [function name] that performs [describe the function's purpose]. The function should accept [list of parameters] and return [describe the return type or value].
+```
+
+### 2. **API Endpoint Integration**
+```
+Write a [programming language] function to interact with the [API name] endpoint [API endpoint URL]. The function should accept [list of parameters] and return [describe the return type or value]. Include error handling for [list of potential errors].
+```
+
+### 3. **Database Query Template**
+```
+Create a [SQL/NoSQL] query to [describe the query's purpose, e.g., retrieve, update, delete] records from the [table/collection name] where [condition].
+```
+
+### 4. **Shell Script for Automation**
+```
+Write a shell script that automates the task of [describe the task] using the following tools: [list of tools]. The script should [describe the script's actions].
+```
+
+### 5. **Debugging a Code Snippet**
+```
+Debug the following [programming language] code snippet:
+```[code snippet]```
+Identify and fix the errors in the code.
+```
+
+### 6. **Refactoring Code for Improved Readability**
+```
+Refactor the following [programming language] code to improve readability and maintainability:
+```[code snippet]```
+Explain the changes made and their benefits.
+```
+
+### 7. **Writing Unit Tests**
+```
+Write unit tests for the function [function name] in [programming language]. The tests should cover the following scenarios: [list of scenarios].
+```
+
+### 8. **Security Enhancement**
+```
+Implement security measures to protect the [application/API] against [describe the security threat]. Describe the security measures implemented and their effectiveness.
+```
+
+### 9. **Writing Documentation**
+```
+Write documentation for the [programming language] function [function name]. Include a description of the function, its parameters, return type, and any exceptions it might raise.
+```
+
+### 10. **Performance Optimization**
+```
+Optimize the following [programming language] code for performance:
+```[code snippet]```
+Explain the optimizations made and how they improve the code's performance.
+```
+
+### 11. **Code Enhancement**
+```
+Suggest improvements and additions to the [programming language] code for [describe the code's purpose]. Include any new features or optimizations that could enhance the code.
+```
+
+### 12. **Security Enhancement for Web Applications**
+```
+Implement security measures to protect the web application against [describe the security threat]. Describe the security measures implemented and their effectiveness.
+```
+
+### 13. **Refactoring for Improved Code Structure**
+```
+Refactor the following [programming language] code to improve its structure and maintainability:
+```[code snippet]```
+Explain the changes made to improve the code's structure and why they enhance maintainability.
+```
+
+### 14. **Documentation for Code Logic**
+```
+Explain the logic behind the [programming language] function [function name]. Provide a detailed explanation of how the function works, including any key algorithms or data structures used.
+```
+
+### 15. **Performance Optimization for Startup Time**
+```
+Optimize the startup time of the [application/service] by identifying and addressing performance bottlenecks in the following code:
+```[code snippet]```
+Detail the identified bottlenecks and the optimizations made to improve startup time.
+```
+
+### 16. **Debugging a Specific Issue**
+```
+Debug the issue where [describe the issue] occurs in the [programming language] code. Provide a step-by-step guide to identify and fix the problem.
+```
+
+### 17. **Refactoring for Improved Readability**
+```
+Refactor the following [programming language] code snippet to improve its readability:
+```[code snippet]```
+Explain the logic changes made to simplify the code and improve its efficiency.
+```
+
+### 18. **Writing Shell Commands for a Specific Task**
+```
+Write a shell script to automate the task of [describe the task] using the following tools: [list of tools]. Explain how the script uses each tool to complete the task.
+```
+
+### 19. **Security Enhancement for API Endpoints**
+```
+Implement security measures for the API endpoint [API endpoint URL] in the following code:
+```[code snippet]```
+Describe the security measures implemented and why they are effective.
+```
+
+### 20. **Code Enhancement for Improved User Experience**
+```
+Improve the user experience in the [application/service] by addressing the issue of [describe the user experience issue]. Describe the changes made to address the issue and how they enhance the user experience.
+```
+
+-------------
 ### **AI Art Prompts**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
 ### **Content Generation**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
 ### **SEO prompts**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
 ### **Information Extraction**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
 ### **Text Summarization**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
 ### **Text Classification**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
 
 ## How to Use
 1. **Browse Categories**
