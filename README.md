@@ -12,12 +12,20 @@ A meticulously curated collection of prompts designed to enhance productivity, c
 - [Resources](#resources)
 
 ## Categories
-### **Conversation**
+### **Writing**
+**Prompt for a Blog Post**
+
+Write a detailed and engaging blog post on the subject of `The Impact of Climate Change on Global Agriculture.`
+The post should explore the current challenges and potential solutions, highlighting case studies of regions most affected.
+ Aim for a word count of `1000` words, and ensure the content is accessible to a general audience interested in environmental issues.
+
+
 ### **Question Answering**
 ### **Coding Tasks**
 ### **AI Art Prompts**
-### **Information Extraction**
 ### **Content Generation**
+### **SEO prompts**
+### **Information Extraction**
 ### **Text Summarization**
 ### **Text Classification**
 
