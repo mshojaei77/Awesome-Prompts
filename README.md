@@ -8,6 +8,14 @@ A meticulously curated collection of prompts designed to enhance productivity, c
   - [Writing](#writing)
   - [Question Answering](#question-answering)
   - [Coding Tasks](#coding-tasks)
+  - [Content Creation](#content-creation)
+  - [SEO](#seo)
+  - [Extraction](#extraction)
+  - [Translation](#translation)
+  - [Summarization](#summarization)
+  - [Marketing](#marketing)
+  - [Customer Services](#customer-services)
+  - [AI Agents](#ai-agents)
 - [How to Use](#how-to-use)
 - [Expert Strategies](#expert-strategies)
 - [ChatGPT Tips](#chatgpt-tips)
@@ -305,7 +313,7 @@ Explain the reasoning behind the chosen prompt structure and how it aligns with 
 ```
 
 -------------
-### **AI Art Prompts**
+## **AI Art Prompts**
 
 ### 1. Generating Surreal Art
 ```plaintext
@@ -358,7 +366,7 @@ Transform the historical event of [describe the historical event] into an art pi
 ```
 
 -------------
-### **Content Generation**
+## **Content Creation**
 #### 
 #### 
 #### 
@@ -370,7 +378,7 @@ Transform the historical event of [describe the historical event] into an art pi
 #### 
 #### 
 -------------
-### **SEO prompts**
+## **SEO**
 #### 
 #### 
 #### 
@@ -382,7 +390,7 @@ Transform the historical event of [describe the historical event] into an art pi
 #### 
 #### 
 -------------
-### **Information Extraction**
+## **Translation**
 #### 
 #### 
 #### 
@@ -394,7 +402,7 @@ Transform the historical event of [describe the historical event] into an art pi
 #### 
 #### 
 -------------
-### **Text Summarization**
+## **Extraction**
 #### 
 #### 
 #### 
@@ -406,7 +414,7 @@ Transform the historical event of [describe the historical event] into an art pi
 #### 
 #### 
 -------------
-### **Text Classification**
+## **Summarization**
 #### 
 #### 
 #### 
@@ -418,7 +426,42 @@ Transform the historical event of [describe the historical event] into an art pi
 #### 
 #### 
 -------------
-
+## **Marketing**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
+## **Customer Services**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
+## **AI Agents**
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+-------------
 ## How to Use
 1. **Browse Categories**
 2. **Select a Prompt**
@@ -469,5 +512,5 @@ Transform the historical event of [describe the historical event] into an art pi
 
 ## Resources
 - **ChatGPT Prompts for Learning**: [relatively new discipline for developing and optimizing prompts](https://www.promptingguide.ai/)
-
+- **ChatGPT Prompt Templates** : [2,500+ ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/2-500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
 
